@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file:
-
----
-
 # ClimaCity
 
 ClimaCity is a sleek and user-friendly weather application built with React. With ClimaCity, users can effortlessly search for the current temperature and climate conditions of any city around the globe.
@@ -63,7 +59,8 @@ ClimaCity is a sleek and user-friendly weather application built with React. Wit
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/a5425255-9889-4a6a-8816-b878a2f7ea9a)
+![Untitled](https://github.com/user-attachments/assets/cc6b42b8-be3f-451e-b241-5926088525de)
+
 
 
 ## Contributing
