@@ -54,7 +54,7 @@ ClimaCity is a sleek and user-friendly weather application built with React. Wit
     npm run dev
     ```
 
-    The app will run locally at `http://localhost:3000`.
+    The app will run locally at `http://localhost:5173`.
 
 ## Usage
 
@@ -63,7 +63,8 @@ ClimaCity is a sleek and user-friendly weather application built with React. Wit
 
 ## Screenshots
 
-![ClimaCity Screenshot](./screenshots/screenshot.png)
+![image](https://github.com/user-attachments/assets/a5425255-9889-4a6a-8816-b878a2f7ea9a)
+
 
 ## Contributing
 
@@ -71,14 +72,10 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - [OpenWeatherMap API](https://openweathermap.org/) for providing weather data.
 - [React](https://reactjs.org/) and [Material UI](https://mui.com/) for making UI development more efficient.
 - [Vite](https://vitejs.dev/) for fast and efficient tooling.
-
----
-
-This version reflects all your recent updates, including the use of Material UI, Vite, and the correct commands to start the server.
